@@ -5,10 +5,11 @@
 * [PCB Design Journey](README.md)
   * [Avoiding Common Mistakes](pcb/readme/quickstart.md)
   * [🧠 How to Learn Electronics — For Real](pcb/readme/publish-your-docs.md)
+* [Rick Hartley's Books](pcb/rick-hartleys-books.md)
 
 ***
 
-* [The Beginner’s Guide to Soldering: Tools, Techniques, and Tips for Electronics Enthusiasts](editor/README.md)
+* [Soldering Tips](editor/README.md)
   * [The Ultimate Guide to Using a Multimeter: Everything You Need to Know](editor/markdown.md)
   * [The Ultimate Guide to Using a Multimeter (Even If You're a Total Beginner!)](editor/images-and-media.md)
   * [The Hidden World of Printed Circuit Boards (PCBs)](editor/interactive-blocks.md)
