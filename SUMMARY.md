@@ -24,6 +24,7 @@
 * [AutoCAD](cad-cam/autocad/README.md)
   * [Mouse Controls](cad-cam/autocad/mouse-controls.md)
 * [MATLAB](cad-cam/matlab.md)
+* [Project A (DC motor)](cad-cam/project-a-dc-motor.md)
 
 ## HardWare
 
