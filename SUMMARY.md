@@ -23,6 +23,7 @@
 
 * [AutoCAD](cad-cam/autocad/README.md)
   * [Mouse Controls](cad-cam/autocad/mouse-controls.md)
+* [MATLAB](cad-cam/matlab.md)
 
 ## HardWare
 
