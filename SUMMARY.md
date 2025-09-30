@@ -22,6 +22,7 @@
 
 ## CAD/CAM
 
+* [Illumination engineering](cad-cam/illumination-engineering.md)
 * [AutoCAD](cad-cam/autocad/README.md)
   * [Mouse Controls](cad-cam/autocad/mouse-controls.md)
 * [MATLAB](cad-cam/matlab.md)
