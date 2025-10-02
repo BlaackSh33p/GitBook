@@ -30,5 +30,8 @@
 
 ## HardWare
 
+* [Managing UEFI Boot Entries](hardware/managing-uefi-boot-entries.md)
 * [HDDs, SSDs, and Common Pitfalls](hardware/hdds-ssds-and-common-pitfalls/README.md)
   * [SSDs](hardware/hdds-ssds-and-common-pitfalls/ssds.md)
+* [PlatformIO with Vim/Neovim](hardware/platformio-with-vim-neovim.md)
+* [ESP32 + OpenPLC + Modbus TCP](hardware/esp32-+-openplc-+-modbus-tcp.md)
