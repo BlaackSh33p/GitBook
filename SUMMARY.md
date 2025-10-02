@@ -19,6 +19,7 @@
 
 * [SSH Keys for GitHub](linux/ssh-keys-for-github.md)
 * [Arch-Linux Installation](linux/arch-linux-installation.md)
+* [Kali NetHunter Installation](linux/kali-nethunter-installation.md)
 
 ## CAD/CAM
 
@@ -37,7 +38,6 @@
 * [ESP32 + OpenPLC + Modbus TCP](hardware/esp32-+-openplc-+-modbus-tcp.md)
 * [ESP32 PlatformIO & WiFi](hardware/esp32-platformio-and-wifi.md)
 * [Barabási–Albert (BA) Network Simulator](hardware/barabasi-albert-ba-network-simulator.md)
-* [Kali NetHunter Installation](hardware/kali-nethunter-installation.md)
 * [Comprehensive Guide to CPUs](hardware/comprehensive-guide-to-cpus.md)
 
 ## Control Systems
@@ -48,7 +48,8 @@
 
 ***
 
-* [Operational amplifiers (op amp)](operational-amplifiers-op-amp.md)
+* [Operational amplifiers (op amp)](operational-amplifiers-op-amp/README.md)
+  * [Circuit Examples](operational-amplifiers-op-amp/circuit-examples.md)
 
 ## P3rf3ctRoot
 
