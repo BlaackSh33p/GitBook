@@ -45,6 +45,10 @@
 * [Basics](control-systems/basics.md)
 * [Analog & Digital Computing](control-systems/analog-and-digital-computing.md)
 
+***
+
+* [Operational amplifiers (op amp)](operational-amplifiers-op-amp.md)
+
 ## P3rf3ctRoot
 
 * [Shellcode](p3rf3ctroot/shellcode.md)
