@@ -127,3 +127,7 @@ The capacitor is used as a memory. When the input voltage on the non-inverting i
 ![](https://static4.arrow.com/-/media/arrow/images/miscellaneous/1/1116-op-amp-fun-image-23.jpg?la=it-it\&h=229\&w=400\&hash=2F6480A108931285AD186608AC9E58D0)
 
 Many more circuits are available with operational amplifiers, but understanding these fundamental 10 circuits allows you to easily study more complex circuits.
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

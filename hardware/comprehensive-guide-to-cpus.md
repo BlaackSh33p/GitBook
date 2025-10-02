@@ -205,7 +205,7 @@ Let’s compare the **3rd Gen i7-3667U**, the **8th Gen i7-8565U** (a good mid-p
 * **i7-8565U (2018)**: Quad-core, doubled multitasking ability, modern memory, decent iGPU.
 * **i7-1255U (2022)**: Hybrid 10-core design, powerful, efficient, handles heavy multitasking, media editing, and even light gaming.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

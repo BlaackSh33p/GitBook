@@ -44,6 +44,7 @@
 
 * [Basics](control-systems/basics.md)
 * [Analog & Digital Computing](control-systems/analog-and-digital-computing.md)
+* [Active vs Passive Electronic Components](control-systems/active-vs-passive-electronic-components.md)
 
 ***
 
