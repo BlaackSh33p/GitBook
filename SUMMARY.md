@@ -35,6 +35,7 @@
   * [SSDs](hardware/hdds-ssds-and-common-pitfalls/ssds.md)
 * [PlatformIO with Vim/Neovim](hardware/platformio-with-vim-neovim.md)
 * [ESP32 + OpenPLC + Modbus TCP](hardware/esp32-+-openplc-+-modbus-tcp.md)
+* [ESP32 PlatformIO & WiFi](hardware/esp32-platformio-and-wifi.md)
 * [Barabási–Albert (BA) Network Simulator](hardware/barabasi-albert-ba-network-simulator.md)
 * [Kali NetHunter Installation](hardware/kali-nethunter-installation.md)
 * [Comprehensive Guide to CPUs](hardware/comprehensive-guide-to-cpus.md)
@@ -42,3 +43,8 @@
 ## Control Systems
 
 * [Basics](control-systems/basics.md)
+* [Analog & Digital Computing](control-systems/analog-and-digital-computing.md)
+
+## P3rf3ctRoot
+
+* [Shellcode](p3rf3ctroot/shellcode.md)
